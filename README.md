@@ -2,7 +2,7 @@
 
 Looking to dominate Roblox's fashion frenzy and stack your virtual cash? The **Dress to Impress Script** is your all-in-one solution to boost your flair, auto-farm currency, and flex those emotes like a true trendsetter. It's 100% **free**, **keyless**, and packed with flashy features to **elevate your game** effortlessly!
 
-![script-image](image-link-placeholder)
+![script-image](https://github.com/RobloxScriptsMan/Dress-To-Impress/blob/main/dress%20to%20impress.png)
 
 ---
 
